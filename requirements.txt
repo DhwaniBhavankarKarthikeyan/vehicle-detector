@@ -1,0 +1,9 @@
+streamlit
+torch
+librosa
+soundfile
+matplotlib
+numpy
+opencv-python
+moviepy
+ultralytics
